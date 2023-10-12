@@ -1,5 +1,3 @@
-EM CONSTRUÇÃO AGUARDE...
-
 <p align="center">Olá, meu nome é Paulo. Nasci em Florianópolis e sou um desenvolvedor júnior em sistemas. Tenho estudado há pelo menos 3 anos, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estudo no SENAC, na Grande Florianópolis curso técnico em desenvolvimento de sistemas. Além disso, faço cursos livres, como Alura e Udemy. Meu sonho é trabalhar desenvolvendo softwares. Sou apaixonado por tecnologia, software e RPG :D
 
 Nesses 3 anos, tenho focado no desenvolvimento front-end com JavaScript e agora estou estudando muito Python e Java.
@@ -7,8 +5,8 @@ Nesses 3 anos, tenho focado no desenvolvimento front-end com JavaScript e agora 
 Aqui está um resumo das tecnologias nas quais tenho investido mais tempo nos últimos anos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PauloVieira28&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PauloVieira28&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
