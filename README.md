@@ -1,6 +1,10 @@
 EM CONSTRUÇÃO AGUARDE...
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Olá, meu nome é Paulo. Nasci em Florianópolis e sou um desenvolvedor júnior em sistemas. Tenho estudado há pelo menos 3 anos, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estudo no SENAC, na Grande Florianópolis curso técnico em desenvolvimento de sistemas. Além disso, faço cursos livres, como Alura e Udemy. Meu sonho é trabalhar desenvolvendo softwares. Sou apaixonado por tecnologia, software e RPG :D
+
+Nesses 3 anos, tenho focado no desenvolvimento front-end com JavaScript e agora estou estudando muito Python e Java.
+
+Aqui está um resumo das tecnologias nas quais tenho investido mais tempo nos últimos anos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
