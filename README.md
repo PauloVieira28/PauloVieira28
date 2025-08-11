@@ -6,8 +6,8 @@ Nesses 3 anos, tenho focado no desenvolvimento front-end com JavaScript e agora 
 Aqui está um resumo das tecnologias nas quais tenho investido mais tempo nos últimos anos.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PauloVieira28&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PauloVieira28&show_icons=true&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=PauloVieira28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVieira28&layout=compact&langs_count=7&theme=dracula" />
  </div>
  
  &nbsp;
